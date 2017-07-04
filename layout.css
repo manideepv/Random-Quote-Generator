@@ -1,0 +1,39 @@
+body{
+    background: url("http://getbg.net/upload/full/400566_leto_doroga_derevya_utro_vosxod_tuman_shveciya_1920x1080_(www.GetBg.net).jpg") no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+h1{
+    color: #f6f1ed;
+    font-family: 'Arima Madurai', cursive;
+    margin-top:50px;
+}
+.quotes{
+    background:black;
+    opacity:0.65;
+    padding:0.5%;
+    margin-top:10%;
+    border-radius:10px;
+}
+#quote {
+    color: #bcd5d1;
+    font-size: 250%;
+    font-family: 'Shadows Into Light', cursive;
+}
+#author{
+    color: #bcd5d1;
+    font-size: 100%;
+    font-family: 'Shadows Into Light', cursive;
+}
+.randomquote, .tweet {
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-top: 20px;
+    padding: 10px;
+}
+.container {
+    text-align: center;
+}
